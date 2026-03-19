@@ -40,12 +40,12 @@ Project Structure
 
 
 project-folder/
-│
-├── server.js # Express server
-├── index.html # Main HTML file
-├── style.css # Styling
-├── script.js # Frontend logic & API calls
-└── package.json # Dependencies
+ │
+ ├── server.js # Express server
+ ├── index.html # Main HTML file
+ ├── style.css # Styling
+ ├── script.js # Frontend logic & API calls
+ └── package.json # Dependencies
 
 
 ---
