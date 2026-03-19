@@ -14,7 +14,7 @@ Features
 - Hourly temperature chart (next 24 hours)
 - Dark mode toggle
 - Dynamic background based on weather conditions
-- Autocomplete city search with debounce optimization
+- Autocomplete city search
 
 ---
 
